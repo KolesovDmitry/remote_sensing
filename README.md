@@ -28,4 +28,13 @@ remote_sensing
 IPython Notebook:
 -----------------
 
-1. Фильтрация данных NDVI от шумов: NDVI filtering by Savitzky-Golay.ipynb
+Основные статьи и модули:
+
+
+1. Фильтрация данных NDVI от шумов (фильтр Savitzky-Golay): [NDVI filtering by Savitzky-Golay.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/NDVI%20filtering%20by%20Savitzky-Golay.ipynb)
+2. Фильтрация данных NDVI от шумов (МНК и полиномы): [NDVI-LeastSquares.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/NDVI-LeastSquares.ipynb)
+
+
+Вспомогательные статьи и модули:
+
+1. Инструменты (импорт данных ndvi из csv): [tools.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/tools.ipynb)
