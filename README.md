@@ -3,6 +3,12 @@ remote_sensing
 
 Содержатся файлы IPython Notebook, посвященные обрабоке ДЗЗ, и примеры данных, которые анализируются.
 
+Запускать с использованием следующих ключей:
+
+```
+ipython2 notebook --script --pylab=inline 
+```
+
 Данные:
 -------
 
@@ -53,9 +59,9 @@ IPython Notebook:
 
 Основные статьи и модули:
 
-
 1. Фильтрация данных NDVI от шумов (фильтр Savitzky-Golay): [NDVI filtering by Savitzky-Golay.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/NDVI%20filtering%20by%20Savitzky-Golay.ipynb)
 2. Фильтрация данных NDVI от шумов (МНК и полиномы): [NDVI-LeastSquares.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/NDVI-LeastSquares.ipynb)
+3. Классификация данных ДЗЗ на основе анализа временных рядов NDVI и преобразования Фурье: [FFT_NDVI_Segmentation.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/FFT_NDVI_Segmentation.ipynb)
 
 
 Вспомогательные статьи и модули:
