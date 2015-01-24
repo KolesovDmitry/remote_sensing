@@ -61,8 +61,9 @@ IPython Notebook:
 
 1. Фильтрация данных NDVI от шумов (фильтр Savitzky-Golay): [NDVI filtering by Savitzky-Golay.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/NDVI%20filtering%20by%20Savitzky-Golay.ipynb)
 2. Фильтрация данных NDVI от шумов (МНК и полиномы): [NDVI-LeastSquares.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/NDVI-LeastSquares.ipynb)
-3. Классификация данных ДЗЗ на основе анализа временных рядов NDVI и преобразования Фурье: [FFT_NDVI_Segmentation.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/FFT_NDVI_Segmentation.ipynb)
-
+3. Классификация данных ДЗЗ на основе анализа временных рядов NDVI и преобразования Фурье: 
+  3.1 Теория и примеры [FFT_NDVI_Segmentation.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/FFT_NDVI_Segmentation.ipynb)
+  3.2 Реализация на базе GRASS GIS [FFT_NDVI_Segmentation_GRASS.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/FFT_NDVI_Segmentation_GRASS.ipynb)
 
 Вспомогательные статьи и модули:
 
