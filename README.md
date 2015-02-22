@@ -63,8 +63,10 @@ IPython Notebook:
 2. Фильтрация данных NDVI от шумов (МНК и полиномы): [NDVI-LeastSquares.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/NDVI-LeastSquares.ipynb)
 3. Классификация данных ДЗЗ на основе анализа временных рядов NDVI и преобразования Фурье:
   1. Теория и примеры [FFT_NDVI_Segmentation.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/FFT_NDVI_Segmentation.ipynb)
-  2. Реализация на базе GRASS GIS [FFT_NDVI_Segmentation_GRASS.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/FFT_NDVI_Segmentation_GRASS.ipynb)
+  2. Реализация:
+    1. Разведочный анализ [FFT_NDVI_Segmentation_GRASS.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/FFT_NDVI_Segmentation_exploratory_analysis.ipynb)
 
 Вспомогательные статьи и модули:
 
 1. Инструменты (импорт данных ndvi из csv): [tools.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/tools.ipynb)
+2. Инструменты работы с GRASS [FFT_NDVI_Segmentation_GRASS.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/FFT_NDVI_Segmentation_GRASS.ipynb)
