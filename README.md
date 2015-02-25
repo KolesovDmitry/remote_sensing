@@ -65,6 +65,7 @@ IPython Notebook:
   1. Теория и примеры [FFT_NDVI_Segmentation.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/FFT_NDVI_Segmentation.ipynb)
   2. Реализация:
     1. Разведочный анализ [FFT_NDVI_Segmentation_GRASS.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/FFT_NDVI_Segmentation_exploratory_analysis.ipynb)
+    2. Кластеризация на основе коэффициентов разложения [FFT_NDVI_Segmentation_Unsupervised.ipynb](http://nbviewer.ipython.org/github/KolesovDmitry/remote_sensing/blob/master/FFT_NDVI_Segmentation_Unsupervised.ipynb)
 
 Вспомогательные статьи и модули:
 
