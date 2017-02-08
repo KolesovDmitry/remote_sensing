@@ -8,6 +8,11 @@ remote_sensing
 ```
 ipython2 notebook --script --pylab=inline 
 ```
+slides
+------
+Каталог со слайдами презентаций и материалами для них
+
+
 
 Данные:
 -------
